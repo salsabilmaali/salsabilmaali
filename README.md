@@ -1,4 +1,3 @@
-![Salsabil Maali Banner](https://via.placeholder.com/1200x300/4A90E2/FFFFFF?text=Salsabil+Maali+%F0%9F%8E%A8+Full-Stack+Developer)
 
 <img alt="Wave" src="https://media.giphy.com/media/YZncfQ9tLdHsm/giphy.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Salsabil Maali</h2>
 
